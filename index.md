@@ -54,6 +54,8 @@ Problem Framing
 
 #### Part 3-4
 Activities/Lab
+* [Orange Data Mining](https://orangedatamining.com/)
+* [Orange Data Mining Video Tutorials](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)
 * [Azure ML Studio - https://studio.azureml.net/](https://studio.azureml.net/)
 * [Machine Learning Workflow by Data Professor](https://figshare.com/articles/figure/Building_The_Machine_Learning_Model/11492316)
 
